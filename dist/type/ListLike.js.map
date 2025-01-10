@@ -1,0 +1,1 @@
+{"version":3,"file":"ListLike.js","sourceRoot":"","sources":["../../src/type/ListLike.ts"],"names":[],"mappings":"","sourcesContent":["export type ListLike =\n  | ArrayLike<unknown>\n  | ArrayBufferLike\n  | ArrayBufferView\n  | { length: number, [index: number]: unknown };\n"]}
