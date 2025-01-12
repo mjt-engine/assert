@@ -14,7 +14,7 @@
     "publish": "pnpm run build-docs && pnpm run changelog-version"
   },
   "keywords": [],
-  "author": "",
+  "author": "Matt Taylor (https://mjt.dev)",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^5.4.5",
